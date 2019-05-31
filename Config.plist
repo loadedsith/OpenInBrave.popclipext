@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>Image File</key>
-			<string>bravspin.png</string>
+			<string>brave.png</string>
 			<key>Requirements</key>
 			<array>
 				<string>httpurls</string>
